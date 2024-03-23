@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=424242&height=270&section=header&text=Jinwoo%20Kwak&animation=fadeIn&fontSize=70&fontColor=FAAC58&fontAlign=70&fontAlignY=10&desc=9_2355&descAlign=90&descAlignY=45&rotate=22&stroke=191007&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=slice&color=424242&height=200&section=header&text=Jinwoo%20Kwak&animation=fadeIn&fontSize=50&fontColor=F2F2F2&fontAlign=70&fontAlignY=41&desc=9_2355&descAlign=90.5&descAlignY=20&rotate=13.5&stroke=191007&strokeWidth=0)
 
 ### Hi there 👋
 <!--
