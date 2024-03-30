@@ -1,7 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=9F81F7&height=200&section=header&text=Jinwoo%20Kwak&animation=fadeIn&fontSize=80&fontColor=F5EFFB&fontAlign=70&fontAlignY=36&desc=9_2355&descAlign=93.5&descAlignY=10&rotate=13.5&stroke=F5EFFB&strokeWidth=2)
-### Hi there 👋
+### Hi👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=9F81F7&height=7&section=header)
 
 
